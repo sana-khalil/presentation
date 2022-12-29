@@ -1,4 +1,6 @@
 opencv-python
+matplotlib
+scipy
 
 [dev]
 pytest
